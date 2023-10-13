@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697202538 source:c:\users\dell\desktop\  \elgendy-section\login_consoleapplication\main.c
+	<stdio.h>
+	<string.h>
+
